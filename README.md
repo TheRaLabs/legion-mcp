@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/theralabs-legion-mcp-badge.png)](https://mseep.ai/app/theralabs-legion-mcp)
+
 # Multi-Database MCP Server (by Legion AI)
 
 A server that helps people access and query data in databases using the Legion Query Runner with integration of the Model Context Protocol (MCP) Python SDK.
